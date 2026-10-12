@@ -1,0 +1,48 @@
+{"id": 1, "text": "I was charged twice for my October invoice.", "team": "billing", "severity": 2, "churn": false}
+{"id": 2, "text": "Can I get an invoice with my company's VAT number on it?", "team": "billing", "severity": 0, "churn": false}
+{"id": 3, "text": "Your renewal charged my card $1,200 without any reminder email. Refund it or I'm disputing the charge with my bank and moving to Zendesk.", "team": "billing", "severity": 2, "churn": true}
+{"id": 4, "text": "How do I switch from monthly to annual billing?", "team": "billing", "severity": 0, "churn": false}
+{"id": 5, "text": "The invoice PDF shows the wrong company address.", "team": "billing", "severity": 1, "churn": false}
+{"id": 6, "text": "Me cobraron dos veces este mes, necesito el reembolso.", "team": "billing", "severity": 2, "churn": false}
+{"id": 7, "text": "My card was declined but the payment still shows on my bank statement.", "team": "billing", "severity": 2, "churn": false}
+{"id": 8, "text": "Please remove the old credit card from our billing profile.", "team": "billing", "severity": 0, "churn": false}
+{"id": 9, "text": "Счёт за сентябрь выставлен в долларах, а нам нужен в евро.", "team": "billing", "severity": 1, "churn": false}
+{"id": 10, "text": "Third time asking: where is my refund for the cancelled seats? If it's not here by Friday we're cancelling the whole subscription.", "team": "billing", "severity": 2, "churn": true}
+{"id": 11, "text": "Why did my bill go up 30% this month? Nobody told us about a price change.", "team": "billing", "severity": 1, "churn": false}
+{"id": 12, "text": "Tax was applied to our invoice even though we're tax-exempt; certificate attached.", "team": "billing", "severity": 1, "churn": false}
+{"id": 13, "text": "The API returns 500 on every call since this morning. Our whole checkout is down.", "team": "technical", "severity": 3, "churn": false}
+{"id": 14, "text": "Webhook deliveries are delayed by about 10 minutes.", "team": "technical", "severity": 1, "churn": false}
+{"id": 15, "text": "The dashboard chart labels overlap on small screens.", "team": "technical", "severity": 0, "churn": false}
+{"id": 16, "text": "Export to CSV crashes the app for files over 10,000 rows. I can split the file for now.", "team": "technical", "severity": 1, "churn": false}
+{"id": 17, "text": "Yesterday's data is missing from all reports for every user in our org.", "team": "technical", "severity": 3, "churn": false}
+{"id": 18, "text": "La integración con Shopify dejó de sincronizar pedidos desde la última actualización.", "team": "technical", "severity": 2, "churn": false}
+{"id": 19, "text": "Your SDK throws a NullReferenceException when the config file is missing.", "team": "technical", "severity": 1, "churn": false}
+{"id": 20, "text": "Every page is timing out for all 400 of our users. This is the second outage this month; we're evaluating other vendors.", "team": "technical", "severity": 3, "churn": true}
+{"id": 21, "text": "Приложение падает при загрузке фото на Android 14.", "team": "technical", "severity": 2, "churn": false}
+{"id": 22, "text": "The search results are sorted oddly, is that expected?", "team": "technical", "severity": 0, "churn": false}
+{"id": 23, "text": "Push notifications stopped arriving on iOS for our team.", "team": "technical", "severity": 2, "churn": false}
+{"id": 24, "text": "One of your API endpoints returns other customers' order data. Please treat this as urgent.", "team": "technical", "severity": 3, "churn": false}
+{"id": 25, "text": "I can't sign in after resetting my password.", "team": "account", "severity": 2, "churn": false}
+{"id": 26, "text": "How do I enable two-factor authentication?", "team": "account", "severity": 0, "churn": false}
+{"id": 27, "text": "Please change the email address on my account to my new work email.", "team": "account", "severity": 0, "churn": false}
+{"id": 28, "text": "Our admin left the company and nobody can manage users anymore.", "team": "account", "severity": 2, "churn": false}
+{"id": 29, "text": "I'm locked out after too many attempts and the unlock email never arrives.", "team": "account", "severity": 2, "churn": false}
+{"id": 30, "text": "No puedo iniciar sesión con Google desde ayer.", "team": "account", "severity": 2, "churn": false}
+{"id": 31, "text": "Delete my account and all my data. I'm done with this service.", "team": "account", "severity": 0, "churn": true}
+{"id": 32, "text": "Someone logged into my account from another country and changed my password!", "team": "account", "severity": 3, "churn": false}
+{"id": 33, "text": "Can I add a second owner to our workspace?", "team": "account", "severity": 0, "churn": false}
+{"id": 34, "text": "Как сменить номер телефона для входа?", "team": "account", "severity": 0, "churn": false}
+{"id": 35, "text": "The SSO login loop keeps sending me back to the login page, so I can't work at all. If this isn't fixed today we'll switch tools.", "team": "account", "severity": 2, "churn": true}
+{"id": 36, "text": "I want to transfer my account to my colleague before I leave the company.", "team": "account", "severity": 0, "churn": false}
+{"id": 37, "text": "Do you offer volume discounts for 500 seats?", "team": "sales", "severity": 0, "churn": false}
+{"id": 38, "text": "We'd like a demo of the enterprise plan for our team next week.", "team": "sales", "severity": 0, "churn": false}
+{"id": 39, "text": "Is there an on-premise version we could buy?", "team": "sales", "severity": 0, "churn": false}
+{"id": 40, "text": "¿Tienen precios especiales para universidades?", "team": "sales", "severity": 0, "churn": false}
+{"id": 41, "text": "We're comparing you with Freshdesk; can you send a quote for 50 agents?", "team": "sales", "severity": 0, "churn": false}
+{"id": 42, "text": "Our contract ends next month and a competitor offered us 40% less. Can you match it, or we'll move.", "team": "sales", "severity": 0, "churn": true}
+{"id": 43, "text": "Can I upgrade to the Business plan to get audit logs?", "team": "sales", "severity": 0, "churn": false}
+{"id": 44, "text": "I need to cancel tomorrow's demo call, can we move it to Thursday?", "team": "sales", "severity": 0, "churn": false}
+{"id": 45, "text": "Хотим купить лицензии для отдела из 30 человек, пришлите коммерческое предложение.", "team": "sales", "severity": 0, "churn": false}
+{"id": 46, "text": "Is there a startup discount for the first year?", "team": "sales", "severity": 0, "churn": false}
+{"id": 47, "text": "Who can I talk to about adding the AI add-on for our whole company?", "team": "sales", "severity": 0, "churn": false}
+{"id": 48, "text": "We love the product but our CFO wants a cheaper option or we cancel at renewal. What plans do you have?", "team": "sales", "severity": 0, "churn": true}

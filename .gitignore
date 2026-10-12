@@ -1,0 +1,6 @@
+bin/
+obj/
+.env
+*.user
+.vs/
+results/run.log
